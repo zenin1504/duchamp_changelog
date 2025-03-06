@@ -1,0 +1,7 @@
+02/23/2025
+- Enable qs media player turbulence 
+- Set keyguard refresh rate to 120
+- Apply some dex2oat optimization 
+- Silence some spammy logging
+- Introduce miui color modes
+- The rest is same as PixelOS
