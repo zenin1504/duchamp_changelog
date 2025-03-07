@@ -1,3 +1,23 @@
+03/07/2025 (Prebuild 1.2)
+- Add support for OEM fast charger detection
+- Add reboot fastbootd to power menu
+- Disable log traces
+- Disable FRP
+- Disable printk devkmsg to reduce logging overhead
+- Reduce system server verbosity
+- Set max_comp_streams to zram
+- Fully disable blur (Useful for those prioritizing smoothness.)
+- Lower swappiness to 60%
+- Nuke display engine now
+- Add some lmkd props
+- Fix WPA3 bug
+- Allow more cached apps in the background
+- Enable support for kernel idle timer (better power management.)
+- Set 120Hz frame rate multiple threshold
+- Disable ART debug
+- Import engineering preloader
+- Update blobs to OS2.0.100.0.VNLMIXM
+
 02/23/2025
 - Enable qs media player turbulence 
 - Set keyguard refresh rate to 120
